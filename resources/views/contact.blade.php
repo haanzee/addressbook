@@ -6,8 +6,8 @@
             <img src="{{ asset('images/jas_small.jpg')}}" alt="">
         </div>
         <div class ="col-sm-8" class="shadow">
-            <table class="p-4 mt-5">
-                <tr>
+            <table class="p-4 mt-5 shadow">
+                <tr class="pr-5">
                     <td colspan="4"><h4>Jaswinder Singh</h4></td>
                 </tr>    
                 <tr>
