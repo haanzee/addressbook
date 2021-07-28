@@ -38,7 +38,7 @@ a.nav-link.active {
 div.bdrclr {
     border-color: rgb(10, 6, 46);
     border-width: 1px;
-    border-style:dashed;
+    border-style: dashed;
     border-right: 1px;
     border-left: 1px;
 }
@@ -58,7 +58,7 @@ hr{
 }
 
  table th, table td{
-        padding: 5px;
+        
         padding-left: 10px;
         padding-right: 10px;
  }

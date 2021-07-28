@@ -8,8 +8,8 @@ use App\Http\Controllers\ContactConttroller;
 Route::get('/',[AddressbookController::class, 'index'])->name('home');
 Route::get('/show',[AddressbookController::class, 'show'])->name('show');
 Route::post('/show',[AddressbookController::class, 'create'])->name('create');
-Route::get('/change',[AddressbookController::class, 'change'])->name('change');
 
+Route::get('/change',[AddressbookController::class, 'change'])->name('change');
 Route::get('/edit/{id}',[AddressbookController::class, 'edit'])->name('edit');
 Route::put('/edit/{id}',[AddressbookController::class, 'update'])->name('update');
 
