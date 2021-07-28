@@ -1,2 +1,2 @@
 # addressbook
-Address Book Project Build in Laravel -8 Framework on 26/07/2021
+Address Book using laravel-8 using Component Layout inheritance, Bootstrap, Form Validation, Error Message Handling, Pagination,  Eloquent ORM model using Mysql Database Complete CRUD operation 
